@@ -60,3 +60,6 @@ Ou abra a pasta no Visual Studio, escolha o emulador Android na barra superior e
 
 Os dados ficam em `FileSystem.AppDataDirectory` do aplicativo e persistem entre execuções.
 
+## Vídeo de demonstração
+
+https://drive.google.com/file/d/1mfFiFrS0BIOiImPxyK7RR9QpfXh9Np1p/view?usp=sharing
