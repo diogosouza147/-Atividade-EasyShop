@@ -9,7 +9,7 @@ Protótipo de mini e-commerce em **.NET MAUI (Android)** que usa dois bancos loc
 
 ## Integrantes
 
-- JUSSARA FARIA OLIVEIRA
+- JUSSARA FARIA DE OLIVEIRA
 - DIOGO FERNANDES SOUZA
 
 ## Arquitetura em camadas
